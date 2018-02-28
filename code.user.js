@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         IMStreamDB
 // @namespace    http://imdb.com/
-// @version      2.5.0
+// @version      2.5.1
 // @description  Stream your favorite movies directly in IMDB
 // @author       ZombieTaco
-// @include      http://www.imdb.com/title/*
+// @include      *://www.imdb.com/title/*
 // @homepageURL  https://github.com/ZombieTaco/IMStreamDB
 // @supportURL   https://github.com/ZombieTaco/IMStreamDB/issues
 // @grant        none
