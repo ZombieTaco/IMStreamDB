@@ -2,7 +2,7 @@
 // @name         IMStreamDB
 // @namespace    http://imdb.com/
 // @version      2.0.0
-// @description  If source, adds stream to the movie on the IMDB page
+// @description  Stream your favorite movies directly in IMDB
 // @author       ZombieTaco
 // @include      http://www.imdb.com/*
 // @homepageURL  https://github.com/ZombieTaco/IMStreamDB
