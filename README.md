@@ -12,4 +12,4 @@ Requires use of either ``GreaseMoneky`` or ``TamperMonkey``
 
 Known Issues:
   - Older IMDB pages do not have the div where the iframe is loaded
-  - Openload or the stream crawler, has coinhive and other ads running which may be detected (only found to exist 10% of the time) with your AV. I am looking at a solution to fix this.
+  - Openload or the stream crawler, has coinhive and other ads running which may be detected (**only shows %10 of the time, but almost always fails to load**) with your AV. I am looking at a solution to fix this.
