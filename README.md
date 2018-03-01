@@ -1,5 +1,7 @@
 <img src="https://i.imgur.com/cKUUKbK.png" width="100">
 
+A quick and Easy UserScript I made to pracise my JS skills.
+
 [Install IMStreamDB](https://github.com/ZombieTaco/IMStreamDB/raw/master/code.user.js)
 
 Adds a ``Stream`` button on any IMDB page.
@@ -7,8 +9,6 @@ Adds a ``Stream`` button on any IMDB page.
 Feel free to use your own, or the provided ``API_KEY`` - but it may be banned/rate limited in the future.
 
 Requires use of either ``GreaseMoneky`` or ``TamperMonkey``
-
-A quick and Easy UserScript I made to pracise my JS skills.
 
 <hr>
 
