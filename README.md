@@ -1,4 +1,4 @@
-# IMStreamDB
+<img src="https://i.imgur.com/cKUUKbK.png" width="100">
 
 [Install IMStreamDB](https://github.com/ZombieTaco/IMStreamDB/raw/master/code.user.js)
 
