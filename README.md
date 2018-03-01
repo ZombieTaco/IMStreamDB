@@ -8,6 +8,8 @@ Feel free to use your own, or the provided ``API_KEY`` - but it may be banned/ra
 
 Requires use of either ``GreaseMoneky`` or ``TamperMonkey``
 
+A quick and Easy UserScript I made to pracise my JS skills.
+
 <hr>
 
 Known Issues:
